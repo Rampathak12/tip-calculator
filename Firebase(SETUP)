@@ -1,0 +1,13 @@
+//afai milau//
+
+(user 
+userId
+   role: "admin" OR "user")
+
+(tips
+tipId
+   userId
+   bill
+   percent
+   tip
+   total)
